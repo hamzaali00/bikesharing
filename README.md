@@ -27,5 +27,14 @@ There is no difference in popular time between genders. Overall more men use the
 
 More men are subscribed to the bikesharing service than women.
 
+## Summary
+
+- More men than women use the bikesharing service.
+- On weekdays, 8 AM is the most popular time, along with 5-7 PM.
+- On weekends there is moderate use of the bikes from 10 AM to 5 PM.
+
+### Further Understanding
+- I would create a visualization to see which age range uses the bikes the most
+- I would also create a visualization to see if there is relationship between age and the time the trip was taken. 
 
 [link to dashboard](https://public.tableau.com/app/profile/hamza5755/viz/NYC_Citibike_Challenge_16633665412610/Story1?publish=yes)
