@@ -26,3 +26,6 @@ There is no difference in popular time between genders. Overall more men use the
 ![Trips by Users](images/user_trips.png)
 
 More men are subscribed to the bikesharing service than women.
+
+
+[link to dashboard](https://public.tableau.com/app/profile/hamza5755/viz/NYC_Citibike_Challenge_16633665412610/Story1?publish=yes)
