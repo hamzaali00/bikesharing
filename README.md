@@ -1,4 +1,5 @@
 # bikesharing
+[link to dashboard](https://public.tableau.com/app/profile/hamza5755/viz/NYC_Citibike_Challenge_16633665412610/Story1?publish=yes)
 
 ## Purpose
 
@@ -36,5 +37,3 @@ More men are subscribed to the bikesharing service than women.
 ### Further Understanding
 - I would create a visualization to see which age range uses the bikes the most
 - I would also create a visualization to see if there is relationship between age and the time the trip was taken. 
-
-[link to dashboard](https://public.tableau.com/app/profile/hamza5755/viz/NYC_Citibike_Challenge_16633665412610/Story1?publish=yes)
